@@ -1,0 +1,9 @@
+GET http://localhost:5180/korisnici/2154/postovi/trt
+###
+GET http://localhost:5180/proizvodi/95346
+###
+GET http://localhost:5180/izvestaji/2025
+###
+GET http://localhost:5180/recepti/gibanica.html
+###
+GET http://localhost:5180/pretraga?upit=burek&stranica=5
